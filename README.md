@@ -4,6 +4,12 @@ Lints Markdown files for the style issues that actually cause real
 rendering problems — no Node/npm required, unlike `markdownlint-cli2`
 (the dominant tool for this today).
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
